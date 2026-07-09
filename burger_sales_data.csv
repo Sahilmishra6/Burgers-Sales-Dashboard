@@ -1,0 +1,1001 @@
+Date,Burger_Type,Quantity_Sold,Sales_Amount,Store,Location
+31-10-2023,Cheeseburger,23,? 278.42,Taco Bell,North Dakota
+04-07-2019,Fish Burger,72,? 840.29,Burger King,Colorado
+06-06-2020,Fish Burger,94,? 620.06,Subway,Idaho
+29-05-2023,Beef Burger,56,? 522.87,Burger King,Nebraska
+09-12-2023,Beef Burger,55,? 473.74,Burger King,North Dakota
+15-04-2019,Cheeseburger,99,"? 1,162.00",Taco Bell,Maryland
+10-10-2019,Fish Burger,60,? 870.53,KFC,Idaho
+10-10-2019,Fish Burger,47,? 676.23,Burger King,New Jersey
+21-01-2020,Cheeseburger,64,? 739.03,Taco Bell,Alaska
+28-02-2023,Cheeseburger,79,? 985.91,Wendy's,Kansas
+06-04-2019,Beef Burger,99,"? 1,277.32",Wendy's,Arizona
+16-09-2022,Veggie Burger,57,? 812.02,Wendy's,Montana
+10-12-2019,Fish Burger,85,? 558.15,Subway,North Carolina
+13-04-2019,Veggie Burger,84,"? 1,114.64",McDonald's,Vermont
+14-03-2022,Chicken Burger,33,? 251.70,Wendy's,Nebraska
+11-11-2019,Chicken Burger,85,"? 1,055.18",McDonald's,South Carolina
+26-11-2021,Cheeseburger,97,"? 1,116.47",Subway,Florida
+10-11-2019,Fish Burger,37,? 493.26,McDonald's,Kentucky
+02-10-2022,Cheeseburger,47,? 439.46,KFC,Oklahoma
+22-03-2019,Beef Burger,36,? 273.47,Taco Bell,South Carolina
+17-09-2023,Veggie Burger,68,? 847.38,Burger King,Alabama
+12-10-2023,Chicken Burger,32,? 371.34,Taco Bell,Nebraska
+21-03-2020,Beef Burger,75,? 909.59,Subway,Michigan
+07-03-2023,Fish Burger,45,? 415.10,KFC,Maine
+29-11-2020,Beef Burger,78,"? 1,001.43",Subway,Colorado
+13-01-2022,Chicken Burger,70,? 549.59,KFC,Colorado
+13-05-2022,Fish Burger,80,"? 1,178.50",Burger King,New Hampshire
+08-07-2022,Chicken Burger,45,? 410.92,McDonald's,Alabama
+13-08-2021,Fish Burger,32,? 275.97,Burger King,Oregon
+18-09-2023,Fish Burger,31,? 431.28,Burger King,Delaware
+11-11-2021,Veggie Burger,46,? 384.43,KFC,Vermont
+01-07-2019,Fish Burger,96,"? 1,414.23",Subway,New Jersey
+23-05-2019,Fish Burger,25,? 250.74,KFC,Indiana
+17-06-2021,Cheeseburger,78,? 646.19,Taco Bell,Idaho
+19-09-2019,Veggie Burger,30,? 385.34,Burger King,North Dakota
+31-10-2019,Beef Burger,27,? 233.90,KFC,North Carolina
+02-10-2022,Chicken Burger,24,? 181.09,KFC,Florida
+25-10-2019,Beef Burger,35,? 448.63,McDonald's,Indiana
+22-09-2019,Veggie Burger,48,? 576.20,McDonald's,West Virginia
+28-07-2021,Chicken Burger,20,? 233.59,Taco Bell,Michigan
+08-06-2023,Chicken Burger,29,? 212.20,Subway,Utah
+13-11-2022,Fish Burger,55,? 707.64,Wendy's,New York
+31-03-2019,Beef Burger,29,? 284.65,McDonald's,New Jersey
+27-05-2022,Veggie Burger,27,? 344.77,Subway,California
+24-08-2020,Beef Burger,25,? 349.60,Subway,Oklahoma
+03-02-2023,Cheeseburger,92,"? 1,126.42",Subway,Georgia
+08-05-2019,Fish Burger,32,? 275.82,McDonald's,Oklahoma
+19-10-2020,Veggie Burger,56,? 350.82,Taco Bell,Alabama
+03-04-2019,Fish Burger,75,? 762.95,Burger King,Vermont
+27-01-2023,Beef Burger,41,? 590.00,KFC,Colorado
+04-06-2022,Fish Burger,39,? 431.67,Taco Bell,Georgia
+11-04-2020,Fish Burger,79,? 993.78,Taco Bell,Virginia
+04-09-2022,Fish Burger,94,? 923.32,Subway,Arkansas
+07-10-2020,Beef Burger,34,? 412.52,Burger King,Kansas
+20-03-2020,Fish Burger,29,? 283.86,McDonald's,Utah
+09-01-2022,Chicken Burger,25,? 164.24,Wendy's,Idaho
+08-08-2019,Cheeseburger,96,? 487.99,Subway,Nevada
+25-11-2020,Beef Burger,44,? 378.18,Taco Bell,Maine
+26-08-2020,Veggie Burger,95,? 520.81,Burger King,Montana
+13-12-2023,Beef Burger,87,? 654.31,Burger King,Mississippi
+26-06-2019,Fish Burger,92,? 830.23,Taco Bell,South Dakota
+04-06-2019,Chicken Burger,75,? 582.77,Taco Bell,Connecticut
+31-05-2021,Beef Burger,61,? 906.05,McDonald's,Wyoming
+24-06-2019,Cheeseburger,60,? 551.59,KFC,Indiana
+23-09-2023,Fish Burger,99,? 823.97,Wendy's,Maryland
+28-01-2019,Chicken Burger,88,"? 1,181.01",McDonald's,Nebraska
+29-10-2023,Veggie Burger,86,? 973.66,McDonald's,Kansas
+16-09-2019,Beef Burger,94,? 978.65,Taco Bell,Missouri
+22-05-2020,Cheeseburger,77,"? 1,017.35",McDonald's,Hawaii
+23-10-2021,Veggie Burger,82,? 541.37,Taco Bell,Minnesota
+07-02-2023,Beef Burger,33,? 330.83,Subway,Minnesota
+21-06-2021,Veggie Burger,68,"? 1,018.30",Wendy's,Missouri
+03-03-2019,Fish Burger,34,? 449.05,Wendy's,New Hampshire
+08-05-2021,Veggie Burger,56,? 444.49,Wendy's,New Jersey
+13-12-2021,Cheeseburger,26,? 267.07,Subway,Texas
+07-03-2023,Chicken Burger,81,? 894.17,KFC,Vermont
+02-09-2023,Fish Burger,56,? 565.15,Subway,Iowa
+20-01-2021,Fish Burger,74,? 661.77,Wendy's,Texas
+13-06-2021,Fish Burger,56,? 324.27,KFC,New Hampshire
+25-12-2020,Beef Burger,37,? 464.44,KFC,Idaho
+07-10-2023,Cheeseburger,72,"? 1,038.14",Subway,Utah
+06-05-2020,Cheeseburger,81,? 671.37,McDonald's,Alaska
+07-04-2021,Cheeseburger,94,"? 1,266.94",Burger King,Kentucky
+23-12-2021,Fish Burger,46,? 290.20,KFC,Minnesota
+14-07-2020,Veggie Burger,67,? 409.80,Wendy's,Delaware
+14-10-2021,Fish Burger,46,? 343.93,Subway,Arkansas
+22-07-2022,Fish Burger,60,? 403.29,Taco Bell,Maine
+03-02-2019,Chicken Burger,86,? 446.59,Wendy's,Georgia
+07-12-2020,Fish Burger,76,? 697.81,Subway,Nebraska
+06-02-2019,Cheeseburger,75,? 872.66,KFC,Idaho
+05-11-2022,Veggie Burger,22,? 245.95,Wendy's,Illinois
+05-12-2019,Cheeseburger,56,? 603.53,McDonald's,Virginia
+08-06-2023,Beef Burger,39,? 558.74,McDonald's,Wyoming
+02-01-2023,Fish Burger,47,? 360.17,McDonald's,New Mexico
+01-07-2019,Veggie Burger,41,? 498.69,KFC,Pennsylvania
+05-04-2019,Veggie Burger,58,? 341.30,McDonald's,Florida
+27-12-2019,Chicken Burger,74,? 628.04,Wendy's,Alaska
+20-11-2020,Fish Burger,46,? 258.73,Taco Bell,New Jersey
+31-12-2020,Chicken Burger,96,? 816.66,KFC,West Virginia
+14-11-2019,Beef Burger,34,? 207.15,Wendy's,Minnesota
+11-07-2020,Chicken Burger,57,? 837.78,Taco Bell,Idaho
+10-03-2023,Veggie Burger,54,? 418.91,Taco Bell,Oregon
+04-12-2023,Beef Burger,86,"? 1,222.57",Wendy's,Delaware
+09-07-2023,Fish Burger,40,? 451.53,McDonald's,Washington
+28-05-2020,Chicken Burger,72,? 696.30,KFC,Hawaii
+03-06-2019,Chicken Burger,52,? 486.86,McDonald's,Wisconsin
+17-03-2019,Beef Burger,70,? 662.22,Subway,Virginia
+04-05-2021,Beef Burger,38,? 497.19,McDonald's,Georgia
+03-08-2022,Fish Burger,68,? 930.57,Subway,South Carolina
+29-07-2020,Chicken Burger,98,"? 1,270.83",Subway,Kansas
+28-07-2021,Beef Burger,64,? 716.67,Taco Bell,Michigan
+07-01-2023,Cheeseburger,84,? 970.35,Wendy's,Arkansas
+27-01-2020,Fish Burger,45,? 405.10,Subway,Wisconsin
+17-01-2023,Fish Burger,57,? 699.31,Wendy's,Tennessee
+11-07-2021,Chicken Burger,96,"? 1,419.21",Subway,California
+18-02-2022,Cheeseburger,20,? 237.43,KFC,Michigan
+05-09-2023,Chicken Burger,71,? 735.79,McDonald's,Arizona
+01-02-2023,Veggie Burger,82,"? 1,044.80",McDonald's,Maryland
+05-11-2022,Fish Burger,95,"? 1,289.21",Subway,Wyoming
+20-09-2019,Beef Burger,31,? 453.79,Wendy's,Arkansas
+11-05-2020,Cheeseburger,93,"? 1,288.95",Taco Bell,Missouri
+26-12-2021,Chicken Burger,72,? 693.02,Burger King,Indiana
+19-07-2019,Cheeseburger,59,? 365.67,Taco Bell,Alaska
+31-05-2023,Fish Burger,63,? 791.52,KFC,Tennessee
+17-06-2020,Veggie Burger,88,? 476.60,McDonald's,Kansas
+08-07-2023,Beef Burger,21,? 150.91,Subway,Texas
+10-02-2023,Cheeseburger,44,? 411.38,Wendy's,Illinois
+18-06-2020,Beef Burger,81,? 451.58,McDonald's,Kansas
+10-07-2021,Chicken Burger,96,? 852.25,Wendy's,Wisconsin
+16-02-2021,Chicken Burger,79,? 716.23,KFC,Iowa
+10-09-2021,Cheeseburger,61,? 512.47,McDonald's,Missouri
+14-05-2020,Cheeseburger,73,? 871.78,Subway,Minnesota
+18-04-2022,Veggie Burger,97,? 963.79,Subway,Iowa
+28-04-2023,Fish Burger,61,? 844.73,Taco Bell,Wyoming
+27-12-2020,Fish Burger,64,? 855.88,Wendy's,Arkansas
+20-05-2019,Beef Burger,87,"? 1,050.34",Burger King,South Carolina
+24-03-2020,Fish Burger,79,"? 1,131.44",Subway,Nebraska
+17-07-2022,Cheeseburger,26,? 146.13,Wendy's,Ohio
+16-08-2020,Beef Burger,95,"? 1,238.41",Burger King,Missouri
+05-01-2019,Veggie Burger,59,? 776.41,Wendy's,Vermont
+16-10-2023,Veggie Burger,26,? 337.31,McDonald's,New York
+09-09-2020,Veggie Burger,20,? 173.53,Subway,Massachusetts
+12-12-2022,Fish Burger,62,? 919.56,Wendy's,Alabama
+28-03-2021,Beef Burger,51,? 342.40,KFC,Illinois
+14-11-2019,Veggie Burger,67,? 915.41,KFC,Louisiana
+24-05-2023,Fish Burger,55,? 368.80,KFC,Kansas
+08-09-2021,Chicken Burger,64,? 525.46,Taco Bell,Wisconsin
+06-11-2021,Fish Burger,24,? 234.18,Burger King,Indiana
+05-08-2023,Veggie Burger,91,? 975.62,Subway,Idaho
+11-10-2019,Veggie Burger,58,? 335.93,Subway,Arizona
+11-06-2023,Veggie Burger,55,? 292.45,Wendy's,Illinois
+09-10-2020,Beef Burger,28,? 209.56,KFC,North Carolina
+24-04-2019,Fish Burger,59,? 803.26,Burger King,Michigan
+19-07-2023,Veggie Burger,41,? 333.63,Wendy's,Missouri
+12-06-2021,Chicken Burger,99,"? 1,322.53",Subway,Kentucky
+24-01-2022,Fish Burger,35,? 406.04,Wendy's,New York
+21-01-2020,Veggie Burger,65,? 947.21,McDonald's,Maine
+01-02-2022,Veggie Burger,90,"? 1,346.94",Subway,Kansas
+06-08-2022,Chicken Burger,37,? 281.05,Subway,West Virginia
+24-01-2019,Chicken Burger,79,? 698.40,KFC,Tennessee
+25-12-2023,Veggie Burger,26,? 291.70,KFC,Kansas
+05-03-2023,Beef Burger,57,? 432.59,Taco Bell,South Dakota
+09-08-2021,Fish Burger,82,? 703.49,Subway,New Jersey
+04-04-2023,Fish Burger,21,? 266.09,McDonald's,California
+15-11-2021,Chicken Burger,83,? 779.51,Burger King,Nebraska
+10-10-2021,Cheeseburger,21,? 273.92,Burger King,West Virginia
+17-04-2023,Chicken Burger,42,? 596.82,McDonald's,Kentucky
+05-06-2020,Beef Burger,84,? 731.60,Taco Bell,Minnesota
+08-01-2021,Cheeseburger,96,? 767.43,Wendy's,South Dakota
+28-06-2019,Chicken Burger,57,? 711.92,McDonald's,Rhode Island
+08-05-2023,Beef Burger,89,? 514.04,Taco Bell,Kansas
+03-08-2022,Fish Burger,44,? 421.66,Taco Bell,Oklahoma
+19-11-2023,Cheeseburger,64,? 826.69,Burger King,Arizona
+27-08-2020,Veggie Burger,76,? 703.66,Taco Bell,Texas
+03-02-2019,Chicken Burger,97,"? 1,262.69",Burger King,Maine
+14-05-2019,Chicken Burger,41,? 460.91,Burger King,Illinois
+15-01-2019,Veggie Burger,57,? 746.62,Wendy's,Minnesota
+19-12-2019,Veggie Burger,42,? 534.72,Taco Bell,Minnesota
+23-03-2021,Veggie Burger,64,? 373.70,Burger King,Idaho
+29-04-2023,Veggie Burger,51,? 613.75,Burger King,Nebraska
+09-03-2021,Chicken Burger,57,? 709.19,Burger King,Massachusetts
+11-04-2019,Fish Burger,28,? 402.43,McDonald's,Maine
+11-05-2023,Chicken Burger,93,? 944.12,Subway,Mississippi
+05-08-2022,Chicken Burger,26,? 271.92,Wendy's,New Hampshire
+24-07-2020,Veggie Burger,80,? 686.64,Wendy's,Kansas
+11-05-2022,Fish Burger,59,? 548.16,Wendy's,Delaware
+20-11-2019,Beef Burger,21,? 188.19,McDonald's,Indiana
+02-11-2019,Beef Burger,99,"? 1,113.09",Taco Bell,Louisiana
+21-10-2021,Chicken Burger,38,? 525.41,KFC,Illinois
+12-07-2022,Chicken Burger,62,? 789.10,McDonald's,Pennsylvania
+19-07-2020,Veggie Burger,66,? 445.51,McDonald's,Arizona
+08-10-2021,Chicken Burger,48,? 715.29,McDonald's,Iowa
+25-10-2023,Beef Burger,29,? 276.67,Taco Bell,Texas
+21-02-2022,Veggie Burger,42,? 306.06,KFC,Nevada
+03-12-2020,Beef Burger,44,? 416.19,Subway,Virginia
+20-07-2020,Veggie Burger,28,? 204.29,Burger King,Missouri
+23-10-2019,Cheeseburger,84,? 947.50,Wendy's,Montana
+21-07-2023,Veggie Burger,49,? 718.51,Wendy's,Utah
+18-04-2023,Chicken Burger,71,? 949.91,KFC,New Mexico
+21-05-2020,Veggie Burger,99,? 835.48,KFC,Maine
+06-10-2023,Veggie Burger,39,? 360.47,Taco Bell,South Dakota
+29-03-2020,Cheeseburger,63,? 511.63,Taco Bell,Texas
+27-07-2020,Veggie Burger,52,? 658.85,Wendy's,Virginia
+10-03-2021,Beef Burger,67,? 924.82,Taco Bell,Utah
+05-04-2019,Chicken Burger,78,"? 1,147.84",Wendy's,Nevada
+13-03-2020,Fish Burger,32,? 453.43,McDonald's,Oklahoma
+29-12-2022,Fish Burger,47,? 568.62,Wendy's,Alaska
+04-01-2020,Fish Burger,24,? 279.94,Wendy's,Texas
+28-09-2021,Fish Burger,20,? 190.16,Burger King,Florida
+28-03-2023,Veggie Burger,55,? 759.21,Wendy's,Arkansas
+04-07-2021,Veggie Burger,38,? 194.55,Wendy's,Oregon
+06-08-2022,Veggie Burger,64,? 701.06,Wendy's,Delaware
+10-11-2019,Veggie Burger,28,? 176.35,Wendy's,Rhode Island
+10-10-2020,Chicken Burger,78,? 955.49,Wendy's,Nebraska
+03-04-2020,Beef Burger,44,? 402.41,McDonald's,Kansas
+01-04-2020,Chicken Burger,25,? 369.57,McDonald's,Virginia
+11-11-2022,Beef Burger,64,? 338.34,Burger King,Nevada
+03-07-2022,Fish Burger,31,? 444.33,McDonald's,Missouri
+03-05-2019,Chicken Burger,64,? 658.78,Burger King,Iowa
+07-08-2019,Veggie Burger,68,? 540.83,Wendy's,Wyoming
+11-08-2022,Veggie Burger,30,? 367.41,Subway,Maryland
+12-12-2019,Chicken Burger,59,? 628.67,Subway,Utah
+13-03-2019,Fish Burger,88,? 857.21,KFC,Montana
+13-01-2020,Veggie Burger,97,"? 1,449.12",Burger King,Louisiana
+14-10-2023,Veggie Burger,76,? 878.20,Subway,Alabama
+27-03-2020,Fish Burger,85,? 729.16,KFC,California
+28-07-2020,Fish Burger,44,? 585.13,Subway,Washington
+14-12-2019,Beef Burger,46,? 685.41,McDonald's,North Carolina
+16-01-2022,Fish Burger,77,? 400.19,McDonald's,Kentucky
+06-09-2021,Cheeseburger,57,? 347.60,Subway,Tennessee
+07-09-2023,Veggie Burger,76,? 452.67,McDonald's,Maine
+05-10-2020,Chicken Burger,35,? 220.20,Subway,New York
+16-02-2022,Chicken Burger,89,"? 1,314.92",Taco Bell,New York
+13-11-2019,Veggie Burger,22,? 276.30,Burger King,Wisconsin
+29-08-2021,Beef Burger,20,? 134.86,Taco Bell,Massachusetts
+24-02-2023,Beef Burger,77,"? 1,124.36",Wendy's,Iowa
+26-09-2020,Veggie Burger,87,"? 1,224.86",KFC,Arkansas
+03-08-2019,Veggie Burger,60,? 819.65,McDonald's,Arizona
+02-09-2023,Chicken Burger,97,? 910.41,Subway,Michigan
+13-06-2021,Cheeseburger,42,? 523.55,Taco Bell,Nebraska
+27-08-2023,Chicken Burger,53,? 617.30,Subway,South Dakota
+01-10-2019,Veggie Burger,55,? 520.91,Taco Bell,New Hampshire
+30-07-2021,Veggie Burger,29,? 337.73,Subway,South Carolina
+09-11-2021,Chicken Burger,27,? 371.77,Wendy's,Illinois
+10-12-2023,Veggie Burger,72,? 669.41,McDonald's,California
+20-08-2022,Chicken Burger,100,"? 1,124.93",Burger King,Minnesota
+12-01-2019,Veggie Burger,83,? 744.42,McDonald's,Alaska
+19-08-2021,Fish Burger,34,? 395.36,Subway,Colorado
+31-08-2023,Veggie Burger,61,? 489.20,Burger King,Missouri
+02-06-2021,Cheeseburger,38,? 445.39,Taco Bell,Delaware
+13-06-2020,Fish Burger,75,? 808.62,McDonald's,Iowa
+04-07-2023,Chicken Burger,74,? 518.64,McDonald's,Indiana
+06-03-2022,Veggie Burger,44,? 585.23,Subway,Alaska
+13-04-2022,Beef Burger,88,? 612.53,Wendy's,North Dakota
+09-12-2019,Cheeseburger,49,? 358.35,McDonald's,Texas
+08-05-2020,Beef Burger,86,? 517.14,Taco Bell,Delaware
+09-10-2019,Chicken Burger,44,? 394.80,KFC,Mississippi
+20-03-2022,Chicken Burger,29,? 222.62,Burger King,Texas
+15-12-2023,Veggie Burger,80,? 961.59,KFC,Hawaii
+21-01-2019,Beef Burger,39,? 299.92,McDonald's,West Virginia
+28-03-2022,Chicken Burger,40,? 347.30,McDonald's,Nevada
+14-04-2019,Fish Burger,37,? 352.63,McDonald's,West Virginia
+03-01-2023,Veggie Burger,94,? 612.84,Burger King,Texas
+04-08-2019,Chicken Burger,98,"? 1,358.20",Subway,New Hampshire
+06-12-2019,Cheeseburger,69,? 481.39,McDonald's,Vermont
+03-02-2023,Veggie Burger,100,"? 1,239.71",Taco Bell,Maine
+12-12-2020,Beef Burger,54,? 278.12,McDonald's,Michigan
+22-02-2022,Veggie Burger,40,? 256.80,McDonald's,Connecticut
+30-04-2022,Beef Burger,25,? 235.19,Subway,South Dakota
+27-09-2022,Veggie Burger,33,? 210.00,Burger King,Idaho
+05-04-2021,Chicken Burger,86,? 739.11,Wendy's,Florida
+01-07-2023,Veggie Burger,94,"? 1,055.15",McDonald's,Michigan
+17-02-2019,Beef Burger,45,? 642.69,Taco Bell,Colorado
+05-04-2019,Cheeseburger,97,? 755.08,Subway,Mississippi
+20-04-2021,Veggie Burger,24,? 142.78,Wendy's,Massachusetts
+23-02-2019,Fish Burger,39,? 329.64,Subway,Delaware
+24-07-2021,Cheeseburger,70,? 618.77,Subway,Montana
+12-01-2022,Beef Burger,93,"? 1,220.04",Subway,Vermont
+03-03-2021,Cheeseburger,26,? 167.03,Subway,Maine
+28-07-2022,Veggie Burger,67,? 626.64,McDonald's,Indiana
+27-07-2021,Beef Burger,63,? 661.13,Subway,Alaska
+07-02-2019,Chicken Burger,80,? 529.29,Subway,Delaware
+19-10-2019,Fish Burger,52,? 309.61,Taco Bell,Rhode Island
+04-10-2022,Veggie Burger,71,? 607.49,Subway,Delaware
+28-01-2019,Beef Burger,99,? 669.61,McDonald's,Illinois
+14-01-2019,Fish Burger,88,"? 1,063.39",KFC,Wyoming
+01-07-2023,Veggie Burger,31,? 422.30,KFC,New Mexico
+25-05-2021,Beef Burger,88,"? 1,228.80",Taco Bell,Massachusetts
+23-02-2022,Cheeseburger,85,? 992.49,Taco Bell,California
+14-11-2020,Chicken Burger,82,? 927.79,McDonald's,Maine
+25-12-2021,Veggie Burger,23,? 250.71,Subway,Ohio
+07-03-2020,Chicken Burger,58,? 645.50,Wendy's,Louisiana
+22-05-2023,Chicken Burger,51,? 449.52,McDonald's,Utah
+18-09-2022,Beef Burger,59,? 714.95,Taco Bell,Oklahoma
+04-06-2020,Fish Burger,86,? 995.39,Burger King,New Jersey
+13-11-2023,Beef Burger,78,"? 1,120.83",McDonald's,Maine
+05-09-2023,Cheeseburger,45,? 568.53,Wendy's,New Hampshire
+12-02-2022,Chicken Burger,84,? 601.42,Taco Bell,Washington
+17-03-2023,Fish Burger,53,? 728.22,Taco Bell,Texas
+30-07-2022,Cheeseburger,44,? 536.42,Subway,Washington
+30-11-2020,Veggie Burger,96,"? 1,172.62",Wendy's,Delaware
+19-06-2021,Beef Burger,66,? 956.02,McDonald's,Pennsylvania
+06-05-2022,Chicken Burger,92,"? 1,082.26",Taco Bell,Nebraska
+06-07-2020,Chicken Burger,25,? 341.03,Burger King,Oklahoma
+15-04-2022,Beef Burger,57,? 673.63,Subway,Hawaii
+11-06-2022,Fish Burger,74,? 472.85,KFC,Tennessee
+19-11-2022,Veggie Burger,73,? 832.08,Burger King,New Jersey
+13-02-2019,Chicken Burger,95,"? 1,421.22",Subway,Vermont
+03-12-2023,Chicken Burger,97,? 604.20,Subway,Texas
+15-06-2023,Fish Burger,94,"? 1,170.99",McDonald's,Michigan
+23-10-2022,Beef Burger,30,? 412.37,Taco Bell,Wyoming
+07-09-2023,Veggie Burger,99,"? 1,083.62",Subway,Vermont
+15-05-2021,Veggie Burger,30,? 353.32,Wendy's,Oklahoma
+04-07-2019,Chicken Burger,71,? 807.22,Taco Bell,Louisiana
+17-09-2020,Beef Burger,94,"? 1,111.55",McDonald's,Wyoming
+20-06-2021,Beef Burger,58,? 744.66,Subway,Montana
+29-06-2022,Fish Burger,84,"? 1,185.30",McDonald's,Indiana
+23-01-2020,Cheeseburger,26,? 217.38,Wendy's,West Virginia
+26-08-2021,Beef Burger,64,? 573.62,Subway,Kentucky
+22-03-2022,Beef Burger,100,"? 1,437.92",KFC,Maine
+05-07-2019,Beef Burger,54,? 802.39,Subway,Tennessee
+16-11-2021,Beef Burger,29,? 171.95,Burger King,Utah
+15-05-2020,Cheeseburger,89,? 701.50,McDonald's,Montana
+15-05-2022,Chicken Burger,43,? 311.17,KFC,Nebraska
+03-10-2023,Beef Burger,99,"? 1,155.04",Wendy's,Ohio
+28-02-2021,Cheeseburger,51,? 353.18,Wendy's,Louisiana
+26-07-2021,Veggie Burger,78,? 740.54,Wendy's,Rhode Island
+07-03-2022,Cheeseburger,76,? 450.72,Burger King,Kansas
+16-10-2020,Chicken Burger,61,? 491.47,Wendy's,Ohio
+18-08-2023,Cheeseburger,84,? 646.47,Subway,New Jersey
+19-12-2019,Chicken Burger,70,? 854.45,McDonald's,Ohio
+29-01-2021,Chicken Burger,80,? 588.88,Wendy's,Nevada
+09-10-2023,Cheeseburger,36,? 438.06,Wendy's,Minnesota
+03-03-2021,Cheeseburger,49,? 434.69,Burger King,North Dakota
+23-04-2021,Cheeseburger,72,? 958.11,Wendy's,Colorado
+04-04-2021,Cheeseburger,70,? 913.52,Taco Bell,Montana
+24-09-2020,Fish Burger,61,? 566.91,Burger King,Texas
+28-11-2021,Cheeseburger,29,? 214.28,Burger King,Montana
+25-03-2019,Chicken Burger,68,? 917.70,Wendy's,Oklahoma
+11-10-2022,Veggie Burger,97,? 955.71,Burger King,Florida
+18-05-2023,Cheeseburger,38,? 335.31,Wendy's,Wyoming
+10-03-2019,Beef Burger,96,? 898.27,Burger King,Maryland
+01-07-2023,Chicken Burger,46,? 394.06,McDonald's,Texas
+08-12-2020,Beef Burger,95,? 563.15,Wendy's,California
+15-05-2022,Veggie Burger,23,? 285.35,McDonald's,Wisconsin
+26-11-2020,Fish Burger,96,? 524.35,Wendy's,West Virginia
+24-01-2019,Chicken Burger,49,? 724.40,Wendy's,Idaho
+17-06-2022,Veggie Burger,72,? 933.24,Taco Bell,Montana
+12-05-2021,Fish Burger,26,? 381.30,Wendy's,Idaho
+26-05-2019,Chicken Burger,20,? 286.98,Subway,Alabama
+03-04-2019,Beef Burger,43,? 550.30,Subway,Wyoming
+28-09-2022,Cheeseburger,31,? 419.32,Taco Bell,Alaska
+23-06-2022,Cheeseburger,30,? 324.03,Burger King,Massachusetts
+24-03-2021,Beef Burger,38,? 237.25,Wendy's,New Mexico
+10-05-2023,Chicken Burger,25,? 218.00,KFC,Rhode Island
+15-04-2023,Chicken Burger,79,? 851.89,Taco Bell,Tennessee
+07-04-2022,Veggie Burger,40,? 265.39,KFC,Illinois
+25-02-2020,Fish Burger,59,? 574.75,Taco Bell,Utah
+09-04-2019,Fish Burger,83,? 892.65,McDonald's,Alabama
+09-11-2021,Veggie Burger,62,? 826.74,Subway,Hawaii
+29-10-2022,Beef Burger,50,? 600.57,Subway,California
+14-11-2021,Veggie Burger,83,? 761.31,Burger King,Tennessee
+06-12-2020,Chicken Burger,78,? 818.25,KFC,Washington
+22-08-2023,Veggie Burger,64,? 876.73,Wendy's,North Carolina
+11-06-2019,Chicken Burger,64,? 877.18,Wendy's,Arkansas
+18-05-2021,Beef Burger,96,"? 1,381.62",KFC,Virginia
+15-01-2021,Veggie Burger,83,"? 1,101.33",Wendy's,Rhode Island
+16-05-2021,Chicken Burger,31,? 437.23,McDonald's,Nebraska
+18-12-2022,Chicken Burger,49,? 551.75,Burger King,Montana
+05-06-2023,Cheeseburger,90,? 563.12,KFC,Alabama
+12-11-2021,Veggie Burger,76,? 889.62,KFC,Arizona
+24-03-2021,Chicken Burger,85,"? 1,099.40",KFC,Michigan
+12-01-2020,Cheeseburger,24,? 260.19,KFC,Virginia
+18-04-2019,Beef Burger,37,? 383.26,Subway,Indiana
+17-08-2023,Chicken Burger,95,"? 1,130.77",Wendy's,Missouri
+25-09-2021,Veggie Burger,32,? 194.27,McDonald's,Missouri
+08-09-2020,Veggie Burger,33,? 274.38,McDonald's,Arkansas
+29-03-2023,Fish Burger,36,? 451.18,Wendy's,Hawaii
+21-11-2022,Veggie Burger,88,? 719.20,Subway,Virginia
+22-03-2022,Beef Burger,44,? 305.28,Taco Bell,Rhode Island
+10-07-2022,Chicken Burger,72,? 488.07,Wendy's,New Mexico
+29-05-2020,Cheeseburger,57,? 680.51,McDonald's,Massachusetts
+24-11-2019,Chicken Burger,48,? 601.57,Taco Bell,West Virginia
+20-11-2020,Veggie Burger,90,"? 1,126.77",Wendy's,New Hampshire
+15-08-2021,Chicken Burger,22,? 258.23,Taco Bell,Maryland
+06-04-2022,Cheeseburger,70,? 821.97,Taco Bell,Arkansas
+17-09-2019,Cheeseburger,92,? 758.52,Wendy's,Nevada
+19-12-2022,Veggie Burger,82,"? 1,071.66",KFC,California
+28-02-2019,Cheeseburger,84,? 885.99,McDonald's,Alabama
+26-11-2020,Cheeseburger,99,"? 1,345.73",KFC,Georgia
+13-07-2020,Veggie Burger,57,? 375.86,Wendy's,Utah
+13-03-2020,Chicken Burger,95,? 677.61,KFC,Wyoming
+21-11-2021,Beef Burger,23,? 221.51,Burger King,Maryland
+10-06-2022,Veggie Burger,32,? 224.43,Wendy's,New Hampshire
+01-04-2020,Veggie Burger,93,"? 1,388.07",Taco Bell,Wyoming
+01-12-2023,Beef Burger,43,? 542.35,Taco Bell,Virginia
+03-01-2023,Veggie Burger,86,"? 1,246.21",McDonald's,New Hampshire
+04-01-2020,Veggie Burger,100,? 995.87,Wendy's,Wyoming
+15-09-2019,Chicken Burger,68,? 787.43,Wendy's,Iowa
+29-06-2021,Beef Burger,95,"? 1,382.63",Subway,North Dakota
+22-05-2020,Cheeseburger,79,? 402.60,Taco Bell,Pennsylvania
+30-09-2023,Cheeseburger,96,"? 1,342.33",Wendy's,Hawaii
+06-06-2023,Cheeseburger,91,? 973.20,Taco Bell,Wyoming
+08-06-2023,Beef Burger,93,? 737.34,Burger King,Utah
+30-08-2019,Chicken Burger,92,? 647.51,Taco Bell,Idaho
+16-09-2022,Cheeseburger,62,? 411.73,McDonald's,Arizona
+10-10-2021,Fish Burger,87,? 598.89,Burger King,New Jersey
+12-03-2022,Veggie Burger,72,? 780.26,Taco Bell,Arizona
+30-09-2022,Fish Burger,75,? 393.15,Subway,Connecticut
+05-08-2019,Veggie Burger,58,? 779.05,Burger King,New Mexico
+22-12-2022,Chicken Burger,39,? 549.69,Taco Bell,North Dakota
+04-12-2020,Beef Burger,70,"? 1,026.19",Subway,Missouri
+31-05-2021,Cheeseburger,32,? 462.87,KFC,South Carolina
+22-04-2023,Chicken Burger,20,? 176.22,Taco Bell,Idaho
+23-09-2021,Chicken Burger,49,? 435.62,Wendy's,Virginia
+17-05-2022,Veggie Burger,23,? 271.62,Wendy's,Connecticut
+25-01-2020,Chicken Burger,25,? 152.85,KFC,Wisconsin
+06-03-2022,Cheeseburger,38,? 326.67,Subway,Wyoming
+16-12-2023,Beef Burger,99,? 515.02,Taco Bell,Indiana
+10-03-2019,Beef Burger,90,"? 1,302.58",Subway,Nebraska
+27-11-2022,Fish Burger,97,? 509.46,Burger King,Kentucky
+18-02-2023,Veggie Burger,33,? 278.04,KFC,Oklahoma
+06-11-2022,Chicken Burger,34,? 485.82,McDonald's,Iowa
+21-12-2019,Fish Burger,80,? 460.31,Subway,North Dakota
+15-05-2020,Cheeseburger,100,"? 1,177.81",Taco Bell,Minnesota
+23-06-2023,Chicken Burger,48,? 691.84,Subway,Georgia
+21-10-2019,Veggie Burger,42,? 431.41,Wendy's,New York
+20-07-2021,Beef Burger,76,"? 1,043.05",Wendy's,Montana
+25-01-2023,Veggie Burger,72,? 379.32,Subway,Connecticut
+23-12-2023,Beef Burger,89,? 948.42,Subway,Vermont
+12-10-2023,Chicken Burger,77,? 679.83,KFC,Illinois
+01-11-2022,Chicken Burger,71,? 964.62,Burger King,Oregon
+24-09-2021,Veggie Burger,61,? 681.02,McDonald's,North Dakota
+24-10-2019,Beef Burger,97,? 991.50,Taco Bell,Rhode Island
+29-01-2023,Beef Burger,25,? 192.20,Wendy's,Florida
+24-09-2020,Beef Burger,88,"? 1,073.87",Taco Bell,Utah
+14-10-2021,Chicken Burger,28,? 235.72,Taco Bell,Wisconsin
+25-06-2020,Cheeseburger,31,? 252.43,McDonald's,New Mexico
+08-05-2020,Beef Burger,61,? 615.16,Subway,Ohio
+12-05-2019,Veggie Burger,89,"? 1,000.09",Subway,Pennsylvania
+25-12-2023,Chicken Burger,78,"? 1,084.05",McDonald's,North Carolina
+01-01-2019,Veggie Burger,45,? 374.51,Subway,Alaska
+25-04-2021,Veggie Burger,69,? 534.05,Taco Bell,Alabama
+12-08-2021,Chicken Burger,43,? 295.23,Wendy's,Massachusetts
+03-05-2022,Cheeseburger,74,? 677.30,Subway,Wyoming
+09-11-2019,Cheeseburger,93,? 733.13,Subway,New Hampshire
+05-07-2019,Cheeseburger,60,? 711.60,Burger King,Louisiana
+24-04-2019,Chicken Burger,39,? 399.78,KFC,New Jersey
+22-07-2021,Fish Burger,67,? 786.53,McDonald's,Tennessee
+15-02-2020,Chicken Burger,92,? 641.77,McDonald's,Maryland
+14-08-2019,Beef Burger,45,? 242.47,KFC,Montana
+01-11-2020,Chicken Burger,31,? 345.79,Subway,Delaware
+24-12-2022,Cheeseburger,76,? 557.34,Taco Bell,New Hampshire
+19-08-2021,Beef Burger,69,? 503.29,Taco Bell,Louisiana
+04-04-2020,Fish Burger,60,? 383.04,Wendy's,Indiana
+24-06-2019,Veggie Burger,88,"? 1,317.64",Wendy's,Nebraska
+29-08-2020,Veggie Burger,96,"? 1,280.25",Burger King,North Carolina
+13-07-2019,Cheeseburger,98,? 521.98,McDonald's,Texas
+09-01-2022,Veggie Burger,85,? 894.91,Taco Bell,Mississippi
+18-02-2020,Fish Burger,77,? 878.10,Subway,Massachusetts
+02-11-2019,Cheeseburger,33,? 454.64,KFC,New Mexico
+25-11-2020,Beef Burger,45,? 511.89,McDonald's,New Mexico
+08-01-2021,Fish Burger,58,? 401.37,Taco Bell,Texas
+26-06-2020,Cheeseburger,38,? 468.20,Taco Bell,Oklahoma
+11-11-2022,Beef Burger,36,? 216.77,Wendy's,Missouri
+23-01-2020,Chicken Burger,88,"? 1,005.47",McDonald's,Florida
+07-08-2020,Chicken Burger,54,? 386.55,Burger King,Utah
+04-10-2019,Cheeseburger,63,? 710.38,Wendy's,New York
+29-01-2020,Chicken Burger,36,? 269.43,Taco Bell,Vermont
+01-04-2019,Veggie Burger,75,? 515.75,Subway,Kansas
+06-11-2019,Fish Burger,53,? 310.56,Wendy's,Maryland
+21-01-2020,Veggie Burger,26,? 202.36,Taco Bell,Arkansas
+06-03-2019,Beef Burger,82,? 942.02,Burger King,Utah
+10-11-2023,Cheeseburger,52,? 320.33,Subway,Michigan
+09-08-2023,Beef Burger,56,? 590.53,Subway,Kentucky
+22-09-2023,Cheeseburger,71,? 868.23,KFC,Oklahoma
+08-12-2020,Veggie Burger,96,"? 1,175.11",Taco Bell,Kansas
+29-09-2020,Cheeseburger,44,? 365.92,KFC,Illinois
+12-01-2019,Chicken Burger,89,"? 1,183.50",KFC,Alaska
+12-01-2021,Beef Burger,55,? 695.43,McDonald's,Louisiana
+26-05-2023,Cheeseburger,25,? 310.10,Wendy's,Minnesota
+03-04-2023,Veggie Burger,27,? 262.64,Wendy's,Minnesota
+04-09-2023,Chicken Burger,75,? 472.37,McDonald's,Delaware
+26-10-2021,Veggie Burger,75,? 405.09,Subway,Ohio
+26-11-2023,Fish Burger,46,? 318.87,Burger King,Missouri
+08-05-2021,Cheeseburger,49,? 658.16,Subway,West Virginia
+18-03-2019,Fish Burger,27,? 302.65,Taco Bell,Indiana
+03-02-2023,Veggie Burger,80,"? 1,184.94",Wendy's,South Carolina
+05-08-2021,Beef Burger,61,? 407.63,Wendy's,Texas
+11-07-2020,Beef Burger,51,? 462.65,Taco Bell,South Carolina
+28-02-2022,Beef Burger,50,? 666.48,Subway,New Jersey
+05-02-2022,Beef Burger,48,? 680.09,KFC,Nevada
+13-11-2019,Cheeseburger,76,? 398.23,Subway,Georgia
+27-09-2023,Beef Burger,70,? 979.87,Taco Bell,Delaware
+13-11-2022,Cheeseburger,58,? 449.17,Burger King,West Virginia
+27-01-2021,Chicken Burger,87,? 611.74,KFC,Montana
+21-03-2021,Cheeseburger,85,? 914.04,Burger King,Kansas
+31-01-2022,Chicken Burger,93,? 998.69,Taco Bell,Louisiana
+20-05-2021,Fish Burger,58,? 833.84,McDonald's,South Dakota
+04-08-2022,Fish Burger,38,? 487.46,Taco Bell,North Carolina
+02-02-2023,Chicken Burger,47,? 457.22,Wendy's,Virginia
+06-05-2020,Cheeseburger,42,? 383.75,McDonald's,Colorado
+31-08-2022,Chicken Burger,40,? 262.10,Wendy's,Massachusetts
+06-10-2022,Veggie Burger,63,? 590.51,Taco Bell,Kentucky
+03-03-2021,Beef Burger,57,? 684.33,Taco Bell,Iowa
+10-07-2020,Cheeseburger,63,? 841.83,Wendy's,Rhode Island
+18-05-2019,Veggie Burger,64,? 469.62,KFC,Oregon
+09-06-2021,Cheeseburger,44,? 389.82,Taco Bell,Texas
+09-01-2022,Veggie Burger,55,? 352.42,McDonald's,Maine
+16-06-2021,Cheeseburger,46,? 289.48,KFC,Maryland
+12-01-2019,Chicken Burger,85,? 667.02,Burger King,Minnesota
+26-03-2022,Veggie Burger,62,? 549.73,McDonald's,North Carolina
+09-08-2023,Beef Burger,54,? 759.24,Taco Bell,Virginia
+20-07-2020,Veggie Burger,94,"? 1,220.39",KFC,New Hampshire
+01-04-2019,Veggie Burger,81,? 552.57,Taco Bell,North Dakota
+24-07-2019,Cheeseburger,37,? 205.52,McDonald's,Tennessee
+30-04-2019,Fish Burger,75,? 799.00,Burger King,Mississippi
+19-10-2023,Veggie Burger,53,? 719.58,Subway,Wyoming
+18-05-2021,Fish Burger,55,? 482.21,Taco Bell,South Dakota
+02-08-2019,Cheeseburger,80,? 650.31,Taco Bell,Texas
+22-02-2020,Veggie Burger,66,? 789.32,Taco Bell,New Mexico
+05-09-2020,Beef Burger,76,"? 1,105.28",Wendy's,New York
+06-06-2022,Fish Burger,89,? 696.19,McDonald's,Arizona
+18-11-2021,Fish Burger,90,"? 1,065.69",Wendy's,Oklahoma
+19-10-2019,Fish Burger,29,? 429.45,Burger King,Massachusetts
+08-01-2021,Cheeseburger,80,? 481.14,Burger King,North Dakota
+24-11-2019,Beef Burger,75,? 589.71,McDonald's,Hawaii
+03-12-2019,Veggie Burger,64,? 934.79,KFC,North Carolina
+06-11-2021,Chicken Burger,80,? 696.89,KFC,Wyoming
+10-04-2019,Chicken Burger,79,"? 1,089.79",Taco Bell,Washington
+01-06-2020,Fish Burger,85,"? 1,025.06",Wendy's,Georgia
+20-02-2023,Beef Burger,51,? 410.11,Wendy's,Pennsylvania
+03-08-2023,Cheeseburger,36,? 492.56,Wendy's,North Carolina
+07-11-2021,Cheeseburger,88,? 688.42,Subway,Virginia
+22-12-2021,Chicken Burger,46,? 287.28,Taco Bell,Nevada
+22-06-2020,Chicken Burger,80,? 632.54,Burger King,Kentucky
+27-02-2020,Chicken Burger,46,? 475.69,McDonald's,South Dakota
+03-06-2021,Veggie Burger,56,? 577.40,KFC,Alaska
+29-12-2023,Fish Burger,48,? 516.56,Taco Bell,Washington
+08-03-2019,Fish Burger,65,? 430.69,Taco Bell,Nebraska
+26-04-2023,Chicken Burger,44,? 368.06,Wendy's,Illinois
+28-10-2019,Veggie Burger,50,? 719.98,KFC,Minnesota
+03-03-2022,Veggie Burger,25,? 305.25,Wendy's,Minnesota
+20-07-2020,Beef Burger,53,? 759.26,Taco Bell,Montana
+28-02-2023,Veggie Burger,61,? 322.57,Taco Bell,Florida
+02-05-2019,Cheeseburger,88,? 639.17,Wendy's,Wisconsin
+30-12-2019,Beef Burger,56,? 736.36,Subway,Minnesota
+19-11-2020,Chicken Burger,72,? 934.48,Subway,Indiana
+25-02-2021,Cheeseburger,30,? 342.55,Subway,Louisiana
+07-05-2019,Chicken Burger,59,? 828.09,Burger King,Hawaii
+03-02-2019,Beef Burger,100,? 958.67,Wendy's,South Carolina
+28-05-2020,Veggie Burger,94,? 741.14,McDonald's,Maryland
+21-12-2020,Cheeseburger,40,? 427.72,Wendy's,Pennsylvania
+16-05-2021,Beef Burger,52,? 573.77,Burger King,Texas
+30-10-2019,Chicken Burger,96,? 617.82,Burger King,North Dakota
+10-09-2020,Chicken Burger,64,? 606.13,Taco Bell,Pennsylvania
+09-11-2021,Beef Burger,89,"? 1,132.46",Burger King,South Carolina
+23-04-2021,Beef Burger,56,? 336.08,Subway,Maryland
+05-04-2020,Beef Burger,62,? 506.29,KFC,Montana
+27-07-2023,Fish Burger,100,? 891.94,Burger King,Washington
+08-07-2022,Beef Burger,24,? 184.04,Wendy's,Iowa
+26-01-2020,Veggie Burger,29,? 222.80,Subway,Iowa
+23-10-2020,Chicken Burger,58,? 804.86,Burger King,Kentucky
+17-06-2022,Chicken Burger,71,? 802.82,Wendy's,Delaware
+10-11-2021,Fish Burger,40,? 454.29,McDonald's,Utah
+06-05-2020,Veggie Burger,91,"? 1,152.02",Taco Bell,Wyoming
+11-10-2021,Beef Burger,78,? 665.42,Burger King,Arizona
+15-01-2020,Veggie Burger,46,? 542.82,McDonald's,Wisconsin
+25-05-2023,Beef Burger,67,? 373.09,KFC,South Carolina
+24-09-2021,Veggie Burger,39,? 416.70,Burger King,California
+30-05-2022,Chicken Burger,90,? 593.84,Wendy's,Rhode Island
+01-01-2023,Veggie Burger,84,? 470.39,Subway,Tennessee
+26-08-2021,Veggie Burger,92,"? 1,057.09",Wendy's,Illinois
+04-08-2020,Veggie Burger,49,? 309.10,KFC,Mississippi
+06-03-2022,Veggie Burger,33,? 372.05,Subway,Maryland
+25-05-2019,Fish Burger,42,? 432.01,Wendy's,Virginia
+05-02-2022,Cheeseburger,65,? 596.19,McDonald's,Alabama
+29-09-2023,Cheeseburger,38,? 460.87,Taco Bell,Louisiana
+17-08-2019,Cheeseburger,26,? 229.74,Wendy's,Kentucky
+08-12-2021,Chicken Burger,93,? 529.91,Subway,Utah
+04-09-2023,Chicken Burger,24,? 185.93,Burger King,Wisconsin
+16-08-2023,Beef Burger,54,? 320.08,KFC,Pennsylvania
+22-01-2019,Fish Burger,56,? 653.28,Burger King,Illinois
+17-10-2021,Cheeseburger,58,? 309.23,Taco Bell,Colorado
+26-10-2020,Veggie Burger,69,? 363.77,McDonald's,West Virginia
+30-07-2020,Chicken Burger,25,? 341.05,McDonald's,Ohio
+19-09-2022,Chicken Burger,44,? 570.44,Wendy's,New Mexico
+30-05-2020,Cheeseburger,42,? 448.23,Burger King,West Virginia
+21-11-2021,Fish Burger,57,? 594.34,Subway,Washington
+29-04-2023,Fish Burger,34,? 197.02,Subway,Arkansas
+14-05-2020,Chicken Burger,100,"? 1,034.99",Taco Bell,Colorado
+28-02-2023,Veggie Burger,85,"? 1,229.20",Burger King,Florida
+18-07-2021,Fish Burger,62,? 404.82,McDonald's,Washington
+19-04-2022,Cheeseburger,49,? 383.41,Subway,Kentucky
+28-05-2023,Cheeseburger,52,? 750.80,Taco Bell,New York
+13-01-2022,Fish Burger,92,? 836.26,Burger King,New York
+02-06-2021,Veggie Burger,38,? 327.82,Subway,Nebraska
+07-07-2021,Fish Burger,44,? 232.07,KFC,Montana
+16-03-2020,Cheeseburger,33,? 214.48,Wendy's,Oklahoma
+07-06-2023,Cheeseburger,31,? 390.90,KFC,Nebraska
+18-11-2022,Chicken Burger,29,? 288.62,Wendy's,South Dakota
+19-04-2020,Fish Burger,56,? 668.19,KFC,New Jersey
+12-10-2020,Veggie Burger,72,? 669.15,McDonald's,Missouri
+28-06-2021,Cheeseburger,89,? 860.41,KFC,North Dakota
+02-04-2021,Chicken Burger,45,? 576.81,McDonald's,Vermont
+19-11-2021,Cheeseburger,80,? 556.99,McDonald's,Nevada
+18-05-2023,Chicken Burger,63,? 325.99,Subway,Utah
+20-05-2022,Chicken Burger,58,? 356.67,Burger King,Idaho
+21-10-2019,Fish Burger,45,? 434.45,Wendy's,Nevada
+24-08-2020,Fish Burger,69,? 749.54,Subway,Vermont
+11-07-2022,Chicken Burger,57,? 402.70,Wendy's,Ohio
+13-08-2022,Cheeseburger,35,? 382.04,Taco Bell,South Carolina
+13-10-2022,Beef Burger,65,? 644.52,KFC,Iowa
+04-04-2023,Veggie Burger,59,? 569.35,Subway,Alaska
+24-11-2023,Chicken Burger,92,? 618.17,McDonald's,Texas
+16-11-2020,Veggie Burger,55,? 675.34,Burger King,Idaho
+09-05-2019,Chicken Burger,22,? 328.15,Taco Bell,Alabama
+23-01-2022,Beef Burger,34,? 376.95,Subway,Kentucky
+06-05-2022,Beef Burger,86,? 817.79,Burger King,New Mexico
+03-02-2023,Cheeseburger,69,? 537.00,Subway,Texas
+01-01-2021,Beef Burger,45,? 229.54,KFC,Utah
+25-04-2021,Fish Burger,30,? 178.95,Wendy's,West Virginia
+05-10-2022,Fish Burger,73,? 522.80,Burger King,Wisconsin
+23-12-2023,Chicken Burger,88,? 873.87,Burger King,Oregon
+08-12-2021,Fish Burger,82,? 876.00,Wendy's,Alaska
+21-07-2023,Beef Burger,63,? 652.33,Subway,Ohio
+08-01-2023,Beef Burger,58,? 679.55,McDonald's,Colorado
+15-08-2019,Veggie Burger,59,? 527.44,Taco Bell,New York
+04-03-2021,Cheeseburger,43,? 267.94,McDonald's,Oregon
+15-02-2019,Chicken Burger,87,"? 1,046.40",Wendy's,New Jersey
+15-07-2021,Beef Burger,93,? 789.55,Taco Bell,Kansas
+09-12-2023,Chicken Burger,100,"? 1,487.76",Subway,Maryland
+03-07-2023,Veggie Burger,100,"? 1,462.90",Wendy's,Minnesota
+08-10-2023,Veggie Burger,83,? 884.09,McDonald's,Maryland
+29-08-2019,Chicken Burger,97,"? 1,158.18",KFC,Maine
+20-08-2019,Chicken Burger,21,? 124.33,Burger King,Maine
+15-09-2019,Fish Burger,65,? 951.04,McDonald's,West Virginia
+04-09-2020,Beef Burger,86,"? 1,273.67",Subway,Illinois
+07-11-2020,Veggie Burger,22,? 260.12,KFC,Kentucky
+30-09-2021,Cheeseburger,85,? 980.05,Subway,Illinois
+07-11-2022,Beef Burger,23,? 134.65,Taco Bell,New Hampshire
+17-11-2022,Cheeseburger,29,? 402.30,McDonald's,Nebraska
+13-08-2022,Cheeseburger,50,? 637.38,Wendy's,Massachusetts
+23-08-2023,Beef Burger,98,? 919.68,Taco Bell,New York
+02-02-2019,Veggie Burger,61,? 434.62,McDonald's,New Hampshire
+26-03-2019,Veggie Burger,60,? 797.61,KFC,Michigan
+15-05-2023,Cheeseburger,40,? 225.91,Burger King,Maryland
+30-09-2021,Fish Burger,32,? 478.27,Subway,Alabama
+29-10-2022,Veggie Burger,96,? 651.33,Subway,Virginia
+16-11-2022,Cheeseburger,38,? 541.77,Subway,Utah
+25-10-2019,Fish Burger,92,"? 1,188.22",Wendy's,Texas
+06-10-2023,Fish Burger,36,? 316.49,McDonald's,Delaware
+16-02-2020,Veggie Burger,42,? 567.95,Wendy's,Montana
+15-10-2022,Fish Burger,90,? 604.23,KFC,Pennsylvania
+28-08-2020,Cheeseburger,75,? 763.15,Taco Bell,Delaware
+20-04-2021,Fish Burger,30,? 361.95,Burger King,Alabama
+16-02-2019,Cheeseburger,45,? 258.86,Taco Bell,Ohio
+14-08-2019,Beef Burger,55,? 753.53,Burger King,Ohio
+17-07-2022,Cheeseburger,93,"? 1,224.11",Taco Bell,Alaska
+03-10-2019,Fish Burger,49,? 665.20,McDonald's,Mississippi
+24-12-2019,Beef Burger,36,? 443.26,Wendy's,Kansas
+10-01-2022,Fish Burger,45,? 352.68,Wendy's,Alaska
+23-02-2023,Chicken Burger,63,? 352.11,Burger King,Nevada
+05-08-2019,Chicken Burger,33,? 193.93,Burger King,Oklahoma
+22-05-2023,Beef Burger,70,? 526.52,Subway,Alaska
+14-10-2020,Fish Burger,79,? 871.56,McDonald's,Tennessee
+08-08-2022,Cheeseburger,79,? 668.25,Burger King,Ohio
+03-04-2022,Fish Burger,63,? 365.81,Wendy's,Wyoming
+16-09-2022,Beef Burger,88,? 701.72,Taco Bell,Idaho
+03-07-2019,Cheeseburger,78,? 933.47,Subway,Arizona
+03-05-2021,Beef Burger,51,? 526.08,Burger King,Alabama
+07-06-2022,Beef Burger,24,? 230.67,Burger King,Massachusetts
+02-05-2019,Cheeseburger,64,? 901.21,Wendy's,Delaware
+15-02-2023,Cheeseburger,51,? 322.47,Subway,Connecticut
+22-07-2020,Veggie Burger,79,? 797.44,McDonald's,Texas
+30-11-2023,Veggie Burger,81,? 695.23,Wendy's,Utah
+11-01-2021,Beef Burger,34,? 402.48,Burger King,North Carolina
+14-07-2021,Veggie Burger,86,? 520.91,KFC,North Dakota
+30-10-2021,Cheeseburger,71,? 895.71,Wendy's,Oregon
+28-06-2023,Cheeseburger,57,? 528.85,KFC,Tennessee
+28-07-2023,Beef Burger,69,? 856.35,Taco Bell,Florida
+13-02-2023,Beef Burger,74,? 940.74,Subway,Georgia
+20-05-2022,Cheeseburger,73,? 814.12,McDonald's,Kansas
+01-05-2021,Chicken Burger,50,? 668.92,Wendy's,Iowa
+16-07-2019,Veggie Burger,35,? 405.48,Burger King,Vermont
+04-08-2021,Beef Burger,39,? 335.37,Wendy's,New York
+04-08-2022,Veggie Burger,34,? 205.70,Taco Bell,Utah
+22-10-2023,Cheeseburger,42,? 310.69,McDonald's,Maine
+06-10-2021,Chicken Burger,78,? 822.43,Subway,Maryland
+03-12-2019,Cheeseburger,25,? 199.90,KFC,Wisconsin
+04-07-2020,Chicken Burger,50,? 738.43,Burger King,Louisiana
+19-11-2020,Chicken Burger,70,? 964.27,Subway,Arkansas
+09-06-2023,Beef Burger,95,? 514.57,Subway,Ohio
+21-10-2019,Fish Burger,91,? 727.85,Subway,North Carolina
+19-06-2023,Veggie Burger,77,"? 1,118.17",McDonald's,Kentucky
+13-08-2019,Veggie Burger,58,? 377.15,McDonald's,Arkansas
+09-05-2021,Beef Burger,73,? 812.60,McDonald's,Kansas
+24-10-2022,Veggie Burger,70,? 549.95,KFC,Oklahoma
+20-09-2022,Veggie Burger,42,? 440.47,Wendy's,Massachusetts
+29-12-2023,Chicken Burger,41,? 420.05,Burger King,Vermont
+17-04-2020,Veggie Burger,44,? 241.90,Wendy's,Rhode Island
+11-08-2022,Veggie Burger,56,? 755.63,Burger King,Virginia
+16-04-2020,Beef Burger,79,? 422.89,Wendy's,Minnesota
+01-05-2021,Fish Burger,56,? 496.70,Subway,Idaho
+07-02-2021,Beef Burger,85,"? 1,007.19",Wendy's,Alabama
+12-07-2019,Veggie Burger,84,? 855.46,Subway,New York
+05-09-2020,Beef Burger,81,? 937.18,Burger King,Pennsylvania
+09-04-2019,Chicken Burger,94,? 583.52,Wendy's,Tennessee
+01-10-2020,Veggie Burger,81,? 428.35,Subway,Texas
+11-11-2023,Chicken Burger,47,? 547.64,KFC,Delaware
+13-12-2019,Cheeseburger,57,? 413.64,Burger King,Montana
+15-08-2023,Veggie Burger,46,? 245.54,Burger King,Nevada
+16-05-2021,Chicken Burger,68,? 526.96,McDonald's,New Hampshire
+12-06-2022,Fish Burger,96,"? 1,321.94",Burger King,Oklahoma
+08-03-2021,Chicken Burger,31,? 286.25,Subway,Nevada
+24-09-2019,Chicken Burger,46,? 499.97,Subway,Minnesota
+07-10-2020,Fish Burger,35,? 360.02,Taco Bell,Indiana
+19-08-2021,Fish Burger,36,? 206.66,McDonald's,Idaho
+20-11-2019,Cheeseburger,72,? 401.92,Burger King,Washington
+11-12-2022,Fish Burger,55,? 575.61,Subway,Montana
+04-11-2021,Chicken Burger,41,? 560.04,Burger King,Tennessee
+18-09-2023,Veggie Burger,33,? 272.49,Wendy's,New Hampshire
+28-01-2020,Cheeseburger,95,"? 1,359.20",Burger King,Delaware
+08-03-2022,Beef Burger,52,? 508.13,McDonald's,Florida
+07-01-2021,Fish Burger,58,? 709.76,Taco Bell,Alaska
+13-05-2019,Veggie Burger,48,? 581.85,KFC,Florida
+02-06-2020,Cheeseburger,35,? 236.05,Wendy's,Kansas
+10-03-2019,Cheeseburger,70,? 464.21,Subway,Arkansas
+27-11-2023,Fish Burger,100,? 933.24,Taco Bell,Louisiana
+07-02-2019,Beef Burger,36,? 275.03,Wendy's,Arizona
+19-04-2023,Cheeseburger,51,? 403.38,McDonald's,Maine
+03-05-2020,Fish Burger,99,? 924.77,Burger King,Tennessee
+04-10-2020,Chicken Burger,60,? 662.67,Taco Bell,Kentucky
+06-12-2022,Beef Burger,77,? 607.44,Wendy's,Nebraska
+06-10-2022,Chicken Burger,25,? 308.34,Burger King,North Carolina
+25-10-2023,Cheeseburger,26,? 188.90,Wendy's,Washington
+14-02-2021,Veggie Burger,60,? 311.61,Subway,Connecticut
+10-06-2023,Beef Burger,61,? 656.24,Wendy's,New Jersey
+09-09-2022,Fish Burger,49,? 421.26,McDonald's,California
+07-01-2022,Beef Burger,25,? 151.18,Taco Bell,South Dakota
+29-01-2021,Fish Burger,59,? 848.05,Taco Bell,Michigan
+23-04-2021,Veggie Burger,78,? 475.55,Burger King,New Jersey
+12-11-2023,Cheeseburger,59,? 513.13,Taco Bell,Idaho
+22-06-2023,Cheeseburger,70,? 733.17,Burger King,Oregon
+04-01-2019,Beef Burger,91,"? 1,183.43",McDonald's,Massachusetts
+24-12-2022,Cheeseburger,70,? 649.18,Taco Bell,Montana
+28-12-2023,Beef Burger,65,? 364.56,McDonald's,Illinois
+14-06-2021,Veggie Burger,52,? 529.40,Burger King,Louisiana
+26-05-2022,Beef Burger,88,"? 1,088.90",Wendy's,Connecticut
+07-02-2021,Fish Burger,26,? 266.99,Taco Bell,Alaska
+23-02-2021,Beef Burger,33,? 212.77,McDonald's,Iowa
+27-11-2022,Veggie Burger,82,"? 1,030.30",Burger King,Kentucky
+16-02-2020,Fish Burger,58,? 369.70,McDonald's,Oregon
+06-09-2023,Cheeseburger,65,? 953.71,Taco Bell,Maryland
+16-10-2022,Beef Burger,70,? 655.80,Wendy's,Texas
+13-08-2019,Veggie Burger,31,? 441.37,KFC,Oklahoma
+04-06-2019,Veggie Burger,49,? 305.96,Burger King,Georgia
+08-02-2023,Beef Burger,33,? 449.15,McDonald's,Kansas
+02-09-2022,Cheeseburger,27,? 227.24,Wendy's,Arizona
+07-02-2021,Beef Burger,88,? 562.75,Taco Bell,Vermont
+29-09-2022,Fish Burger,81,? 974.85,Taco Bell,Alabama
+13-07-2023,Beef Burger,42,? 260.35,Burger King,Colorado
+22-04-2022,Beef Burger,99,? 508.34,Subway,Wyoming
+28-04-2023,Chicken Burger,59,? 673.72,KFC,Missouri
+01-08-2019,Beef Burger,46,? 629.53,Wendy's,Illinois
+30-04-2019,Fish Burger,84,? 836.31,Wendy's,New York
+27-12-2023,Chicken Burger,97,"? 1,294.35",Taco Bell,New Hampshire
+23-02-2019,Veggie Burger,61,? 749.78,Taco Bell,Iowa
+07-06-2023,Fish Burger,44,? 658.45,KFC,Texas
+24-10-2021,Veggie Burger,28,? 259.58,McDonald's,Indiana
+24-12-2020,Veggie Burger,61,? 723.60,McDonald's,Kentucky
+07-02-2022,Fish Burger,62,? 623.49,McDonald's,New Jersey
+31-03-2020,Beef Burger,22,? 203.11,Burger King,West Virginia
+09-03-2023,Fish Burger,63,? 417.96,Wendy's,Kansas
+10-12-2023,Chicken Burger,77,? 967.91,Burger King,Pennsylvania
+13-11-2020,Beef Burger,23,? 125.40,KFC,Connecticut
+17-11-2022,Fish Burger,65,? 690.07,Subway,West Virginia
+28-09-2021,Fish Burger,32,? 253.67,Subway,Maryland
+18-04-2020,Chicken Burger,62,? 821.83,Taco Bell,Oklahoma
+30-11-2023,Veggie Burger,76,? 931.22,Wendy's,Maine
+15-08-2019,Veggie Burger,33,? 285.43,Taco Bell,Mississippi
+20-04-2022,Cheeseburger,84,"? 1,192.27",Taco Bell,Delaware
+01-01-2019,Beef Burger,60,? 800.53,Wendy's,Pennsylvania
+05-12-2023,Chicken Burger,98,? 791.62,KFC,Virginia
+22-04-2019,Fish Burger,56,? 599.04,McDonald's,Nebraska
+18-09-2019,Beef Burger,79,? 484.18,Burger King,Hawaii
+31-07-2020,Veggie Burger,71,"? 1,003.28",McDonald's,Delaware
+01-01-2021,Fish Burger,94,? 580.40,Subway,Wisconsin
+11-08-2019,Beef Burger,97,? 938.74,Taco Bell,Kansas
+25-01-2022,Cheeseburger,28,? 387.16,Subway,Ohio
+10-02-2023,Veggie Burger,64,? 620.68,KFC,New Mexico
+31-07-2022,Beef Burger,96,"? 1,336.42",Burger King,New Jersey
+19-05-2023,Fish Burger,52,? 431.28,Subway,Connecticut
+16-08-2023,Beef Burger,97,? 655.37,Wendy's,Wisconsin
+11-08-2021,Beef Burger,38,? 416.12,McDonald's,Vermont
+02-04-2023,Beef Burger,76,"? 1,049.48",KFC,Alabama
+04-03-2019,Chicken Burger,72,"? 1,012.74",Taco Bell,West Virginia
+07-10-2023,Chicken Burger,69,? 888.53,McDonald's,New Hampshire
+18-10-2019,Beef Burger,96,"? 1,308.32",Subway,Utah
+30-03-2020,Veggie Burger,65,? 865.73,Taco Bell,Oklahoma
+01-02-2022,Fish Burger,69,? 565.57,KFC,Minnesota
+15-04-2023,Cheeseburger,92,? 635.34,Subway,Kentucky
+05-03-2021,Fish Burger,44,? 478.09,Wendy's,California
+19-08-2023,Beef Burger,94,? 869.55,Taco Bell,Virginia
+17-03-2023,Cheeseburger,95,? 926.80,KFC,Alabama
+05-09-2022,Cheeseburger,98,"? 1,436.29",Taco Bell,Arizona
+26-11-2020,Fish Burger,86,? 907.45,McDonald's,Rhode Island
+03-11-2020,Beef Burger,25,? 345.81,Subway,Ohio
+24-04-2020,Fish Burger,59,? 342.71,McDonald's,Maryland
+22-02-2020,Cheeseburger,22,? 242.92,Wendy's,California
+21-07-2021,Veggie Burger,85,"? 1,157.13",Taco Bell,Wyoming
+18-01-2020,Beef Burger,79,? 395.35,Taco Bell,Arizona
+25-07-2019,Chicken Burger,54,? 734.82,Wendy's,Connecticut
+12-03-2023,Fish Burger,30,? 214.78,Wendy's,Rhode Island
+07-10-2023,Cheeseburger,51,? 594.02,McDonald's,Arkansas
+09-12-2019,Chicken Burger,31,? 391.35,Burger King,Mississippi
+29-09-2019,Fish Burger,25,? 228.16,Wendy's,Georgia
+07-04-2019,Veggie Burger,99,? 605.28,Wendy's,Rhode Island
+06-03-2022,Beef Burger,39,? 385.33,McDonald's,Pennsylvania
+07-08-2019,Veggie Burger,99,"? 1,035.74",Subway,Montana
+31-05-2021,Veggie Burger,72,? 412.82,McDonald's,Kentucky
+12-03-2022,Fish Burger,38,? 487.02,Burger King,Pennsylvania
+08-01-2020,Cheeseburger,54,? 337.69,KFC,California
+16-08-2022,Veggie Burger,32,? 477.83,Taco Bell,Alabama
+30-06-2022,Veggie Burger,44,? 331.36,KFC,Nebraska
+16-07-2022,Veggie Burger,42,? 485.92,Taco Bell,Oklahoma
+06-02-2021,Chicken Burger,28,? 286.72,Burger King,Arkansas
+16-06-2020,Fish Burger,69,? 661.17,Taco Bell,Alaska
+21-10-2019,Cheeseburger,30,? 365.67,KFC,Georgia
+28-02-2019,Veggie Burger,26,? 166.52,McDonald's,Missouri
+12-06-2021,Veggie Burger,57,? 485.29,Burger King,New Jersey
+14-07-2020,Beef Burger,96,? 480.76,Taco Bell,Wisconsin
+01-12-2020,Cheeseburger,91,"? 1,159.67",McDonald's,Wisconsin
+10-09-2020,Fish Burger,77,? 854.25,KFC,Maryland
+23-11-2021,Cheeseburger,70,? 871.57,Subway,Florida
+29-07-2021,Beef Burger,50,? 305.24,Taco Bell,Alaska
+06-05-2022,Fish Burger,37,? 540.11,KFC,Pennsylvania
+25-03-2021,Beef Burger,20,? 258.47,Burger King,New Jersey
+30-09-2020,Fish Burger,98,"? 1,201.31",Subway,Wisconsin
+17-01-2022,Cheeseburger,79,? 815.74,Burger King,Nevada
+23-02-2023,Cheeseburger,43,? 540.93,McDonald's,Florida
+13-01-2022,Fish Burger,92,"? 1,031.72",McDonald's,Florida
+22-03-2021,Fish Burger,99,? 685.03,McDonald's,Utah
+31-10-2021,Fish Burger,20,? 145.45,Taco Bell,Arizona
+27-01-2021,Chicken Burger,62,? 489.79,Taco Bell,Vermont
+06-03-2020,Beef Burger,79,"? 1,175.53",Subway,Georgia
+24-08-2021,Fish Burger,94,? 530.03,McDonald's,Oklahoma
+19-09-2020,Fish Burger,29,? 387.74,Wendy's,Utah
+10-12-2019,Beef Burger,74,? 558.72,Subway,California
+26-09-2022,Chicken Burger,47,? 585.23,KFC,Arkansas
+15-01-2022,Cheeseburger,31,? 246.32,Taco Bell,Ohio
+24-03-2020,Veggie Burger,47,? 385.35,Wendy's,Massachusetts
+12-01-2019,Chicken Burger,69,? 473.78,Burger King,Missouri
+11-03-2019,Fish Burger,95,? 502.89,Subway,Connecticut
+02-04-2021,Fish Burger,93,? 803.85,Wendy's,Oregon
+18-01-2019,Beef Burger,55,? 587.68,KFC,Indiana
+15-06-2019,Chicken Burger,22,? 124.74,Wendy's,Ohio
+06-04-2023,Cheeseburger,26,? 363.63,KFC,South Dakota
+04-07-2021,Chicken Burger,73,"? 1,069.49",KFC,Colorado
+02-09-2019,Fish Burger,26,? 165.92,Taco Bell,Idaho
+03-11-2020,Fish Burger,94,? 974.48,Wendy's,Rhode Island
+09-09-2022,Veggie Burger,45,? 258.10,McDonald's,Iowa
+15-04-2023,Fish Burger,44,? 244.83,Taco Bell,Alaska
+24-02-2019,Beef Burger,100,"? 1,276.20",McDonald's,New Mexico
+31-03-2019,Cheeseburger,87,? 757.19,Taco Bell,Ohio
+05-02-2020,Cheeseburger,82,? 623.62,Burger King,Wyoming
+23-01-2020,Chicken Burger,75,? 453.88,McDonald's,Arizona
+29-12-2022,Beef Burger,29,? 326.16,KFC,Oklahoma
+27-12-2020,Fish Burger,83,"? 1,039.80",Wendy's,California
+07-08-2022,Veggie Burger,21,? 292.67,Burger King,Colorado
+29-12-2019,Chicken Burger,59,? 613.49,Burger King,New Hampshire
+31-08-2019,Beef Burger,91,? 753.26,KFC,Utah
+23-12-2022,Fish Burger,70,? 863.70,McDonald's,Maine
+18-06-2020,Beef Burger,91,? 674.01,KFC,Arizona
+16-10-2021,Fish Burger,51,? 588.34,Subway,Kansas
+16-02-2023,Fish Burger,27,? 342.08,Taco Bell,New Jersey
+18-05-2022,Chicken Burger,48,? 534.34,KFC,Pennsylvania
+22-08-2019,Veggie Burger,37,? 253.92,Subway,New Mexico
+15-11-2023,Cheeseburger,50,? 346.40,McDonald's,North Dakota
+28-10-2022,Cheeseburger,64,? 629.34,Subway,Arkansas
+16-03-2020,Chicken Burger,43,? 452.96,Wendy's,Wyoming
+25-11-2019,Cheeseburger,96,? 807.56,McDonald's,Minnesota
+07-02-2021,Beef Burger,57,? 285.56,KFC,Iowa
+12-07-2021,Beef Burger,85,? 864.35,KFC,Maryland
+24-07-2021,Chicken Burger,87,"? 1,223.26",Wendy's,New Hampshire
+24-05-2022,Veggie Burger,47,? 292.78,Wendy's,Washington
+30-08-2021,Chicken Burger,86,? 766.35,Subway,Delaware
+19-07-2022,Fish Burger,96,? 530.40,Wendy's,Washington
+28-05-2020,Chicken Burger,61,? 571.88,Burger King,Wisconsin
+03-01-2021,Fish Burger,22,? 268.88,McDonald's,Washington
+09-10-2019,Chicken Burger,25,? 168.72,KFC,Montana
+24-07-2022,Cheeseburger,28,? 376.13,McDonald's,Vermont
+11-04-2021,Fish Burger,69,? 869.82,Wendy's,Oklahoma
+28-08-2023,Cheeseburger,49,? 327.27,Burger King,Virginia
+10-04-2023,Veggie Burger,39,? 326.08,Burger King,New Hampshire
+29-07-2023,Veggie Burger,86,? 604.79,Taco Bell,Kentucky
+10-08-2020,Beef Burger,21,? 216.73,Subway,Oregon
+03-11-2019,Veggie Burger,66,? 970.03,Burger King,Washington
+04-08-2023,Veggie Burger,76,? 917.89,Wendy's,South Dakota
+04-12-2020,Cheeseburger,35,? 340.17,Burger King,Maine
+21-12-2023,Beef Burger,53,? 683.04,Wendy's,Montana
+15-12-2020,Beef Burger,69,? 853.68,Wendy's,Alaska
+16-04-2023,Chicken Burger,61,? 440.54,McDonald's,Tennessee
+21-06-2020,Fish Burger,34,? 277.65,KFC,Arkansas
+20-03-2020,Fish Burger,62,? 552.51,Subway,Hawaii
+08-09-2019,Fish Burger,51,? 750.96,Burger King,Michigan
+23-04-2023,Cheeseburger,21,? 164.12,KFC,Nevada
+13-11-2020,Chicken Burger,51,? 479.83,Burger King,Kentucky
+06-06-2023,Chicken Burger,58,? 717.55,Subway,Kansas
+10-09-2019,Cheeseburger,53,? 429.41,McDonald's,Alabama
+20-06-2023,Chicken Burger,66,? 844.08,Wendy's,Delaware
+16-09-2022,Beef Burger,45,? 661.45,McDonald's,Virginia
+20-11-2023,Chicken Burger,86,? 899.70,Taco Bell,Pennsylvania
+05-05-2022,Veggie Burger,67,? 522.15,McDonald's,Oregon
+01-10-2021,Fish Burger,37,? 366.11,McDonald's,Connecticut
+17-03-2023,Cheeseburger,31,? 271.05,Subway,Kentucky
+26-05-2021,Veggie Burger,46,? 625.98,McDonald's,Kansas
+30-08-2022,Veggie Burger,23,? 330.00,Burger King,Connecticut
+02-02-2023,Fish Burger,23,? 116.88,McDonald's,Wisconsin
+02-04-2021,Fish Burger,76,? 576.86,Subway,Oklahoma
+30-04-2019,Chicken Burger,77,? 652.03,McDonald's,Indiana
+19-10-2019,Fish Burger,59,? 562.06,Taco Bell,Florida
+22-11-2023,Fish Burger,82,? 928.02,KFC,West Virginia
+23-11-2021,Beef Burger,85,? 563.25,McDonald's,Nebraska
+22-04-2020,Fish Burger,64,? 828.97,Subway,South Dakota
+11-01-2022,Beef Burger,84,? 863.40,Burger King,Georgia
+23-05-2023,Cheeseburger,70,? 589.28,KFC,Colorado
+19-02-2022,Fish Burger,82,"? 1,102.58",Burger King,Montana
+01-10-2021,Chicken Burger,98,? 588.89,Burger King,Wyoming
+02-01-2022,Cheeseburger,60,? 725.79,McDonald's,Maine
+16-07-2021,Chicken Burger,39,? 395.31,McDonald's,Minnesota
+22-04-2020,Fish Burger,69,? 368.46,Wendy's,Ohio
+08-06-2020,Chicken Burger,20,? 156.49,McDonald's,Wisconsin
+30-08-2021,Beef Burger,97,? 608.34,KFC,Tennessee
+13-02-2021,Veggie Burger,91,? 674.57,McDonald's,Oregon
+22-04-2021,Beef Burger,92,? 487.30,Subway,Connecticut
+24-02-2021,Cheeseburger,66,? 630.61,McDonald's,Connecticut
+28-06-2021,Fish Burger,69,? 465.15,KFC,South Carolina
+04-11-2022,Veggie Burger,60,? 856.99,Burger King,Tennessee
+16-02-2019,Chicken Burger,40,? 529.44,Taco Bell,Minnesota
+24-08-2019,Fish Burger,70,? 679.43,Wendy's,Virginia
+10-10-2023,Veggie Burger,83,? 728.87,Taco Bell,Michigan
+06-07-2022,Veggie Burger,68,? 638.32,Burger King,Massachusetts
+30-12-2023,Veggie Burger,41,? 236.59,Subway,Georgia
+15-02-2021,Chicken Burger,26,? 135.42,Burger King,North Carolina
+12-10-2023,Beef Burger,65,? 956.48,Wendy's,Wisconsin
+13-11-2020,Fish Burger,43,? 448.47,Wendy's,New York
+07-02-2019,Veggie Burger,53,? 592.79,Wendy's,Kentucky
+25-01-2020,Fish Burger,69,? 853.36,Burger King,Maryland
+26-04-2020,Veggie Burger,85,"? 1,172.30",Taco Bell,California
+23-05-2019,Chicken Burger,56,? 573.58,Burger King,Maine
+02-07-2019,Cheeseburger,44,? 295.54,McDonald's,North Dakota
+24-11-2023,Veggie Burger,83,? 659.08,McDonald's,Illinois
+04-01-2022,Veggie Burger,22,? 247.27,Wendy's,Connecticut
+01-07-2021,Beef Burger,47,? 686.06,Burger King,New Mexico
+19-03-2023,Chicken Burger,48,? 692.56,Subway,Wisconsin
+18-02-2019,Beef Burger,40,? 263.96,Burger King,Missouri
+01-12-2020,Chicken Burger,71,? 633.68,Wendy's,Connecticut
+26-04-2022,Veggie Burger,20,? 209.67,KFC,West Virginia
+14-05-2021,Chicken Burger,37,? 207.99,KFC,Minnesota
+12-01-2023,Chicken Burger,44,? 224.27,McDonald's,Rhode Island
+20-12-2019,Beef Burger,74,"? 1,015.87",Subway,Missouri
+27-08-2019,Fish Burger,50,? 488.80,Taco Bell,Indiana
+28-08-2023,Veggie Burger,66,? 356.65,Burger King,Tennessee
+10-06-2023,Chicken Burger,82,"? 1,046.07",Burger King,Oklahoma
+24-03-2021,Cheeseburger,64,? 766.28,McDonald's,Wyoming
+15-08-2019,Beef Burger,86,? 452.28,KFC,Vermont
+10-09-2022,Veggie Burger,98,? 891.32,Subway,Arizona
+22-12-2021,Beef Burger,82,? 635.95,Burger King,Missouri
+16-08-2019,Cheeseburger,63,? 574.49,Subway,Iowa
+09-12-2019,Veggie Burger,51,? 463.59,Taco Bell,Indiana
+18-10-2023,Chicken Burger,35,? 507.14,Wendy's,Florida
+24-08-2023,Fish Burger,79,? 415.90,KFC,Connecticut
+02-08-2021,Chicken Burger,90,? 455.36,Subway,South Dakota
+19-08-2022,Veggie Burger,62,? 773.76,Wendy's,Vermont
+10-11-2020,Chicken Burger,72,? 665.55,Taco Bell,Indiana
+23-06-2022,Beef Burger,75,? 427.65,Subway,Oregon
+28-01-2020,Cheeseburger,35,? 271.10,Subway,New Hampshire
+11-12-2022,Beef Burger,78,"? 1,146.82",Taco Bell,Michigan
+01-04-2020,Cheeseburger,74,? 652.28,KFC,Oregon
+03-07-2023,Chicken Burger,60,? 521.12,Subway,Connecticut
+05-03-2022,Cheeseburger,33,? 255.72,McDonald's,New Mexico
+23-10-2022,Chicken Burger,98,"? 1,432.78",Burger King,Texas
+29-12-2020,Fish Burger,97,? 849.98,McDonald's,Wisconsin
+02-05-2022,Beef Burger,70,? 791.77,Wendy's,Delaware
+18-04-2020,Cheeseburger,76,? 610.34,Subway,North Carolina
+12-02-2022,Chicken Burger,55,? 585.72,Burger King,New Jersey
+06-03-2022,Veggie Burger,96,"? 1,352.08",Taco Bell,Alaska
+27-04-2021,Cheeseburger,67,? 877.43,Wendy's,Washington
+06-05-2019,Fish Burger,43,? 595.92,Wendy's,Alaska
+11-11-2022,Fish Burger,67,? 660.07,McDonald's,Wisconsin
+01-08-2021,Fish Burger,27,? 404.07,KFC,Alabama
+02-02-2020,Cheeseburger,49,? 452.16,McDonald's,Alaska
+09-04-2019,Fish Burger,28,? 184.19,Taco Bell,Maryland
+13-11-2020,Cheeseburger,52,? 589.58,Subway,Massachusetts
+04-11-2021,Fish Burger,31,? 234.27,Taco Bell,South Dakota
+27-09-2021,Beef Burger,87,? 780.48,KFC,Kentucky
+19-12-2019,Chicken Burger,84,? 957.19,Burger King,Missouri
+11-03-2022,Beef Burger,61,? 319.83,Burger King,Oregon
+07-04-2019,Fish Burger,37,? 267.74,Wendy's,Georgia
